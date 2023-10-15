@@ -1,4 +1,4 @@
-Program L1EX9;
+Program L1AEX9;
 
 	// Descrição do exercício:
 		//Entrar com a data no formato: DDMMAA (Inteiro)
