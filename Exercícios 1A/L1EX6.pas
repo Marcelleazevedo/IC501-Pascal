@@ -1,4 +1,4 @@
-Program L1EX6;
+Program L1AEX6;
 
 	// Descrição do exercício:
 		//Faça um programa que leia o peso de uma pessoa, só a parte inteira
