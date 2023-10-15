@@ -1,4 +1,4 @@
-Program L1EX5;
+Program L1AEX5;
 	
 	// Descrição do exercício:
 		//Faça um programa que leia:
