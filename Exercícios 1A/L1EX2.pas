@@ -1,4 +1,4 @@
-Program L1EX2;
+Program L1AEX2;
 
 	// Descrição do exercício:
 		// Leia uma temperatura em graus Centígrados e apresente-a convertida em graus Fahrenheit.
