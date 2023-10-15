@@ -1,4 +1,4 @@
-Program L1EX8;
+Program L1AEX8;
 	
 	// Descrição do exercício:
 		// Entre com os valores no formato CDU (Centena, Dezena, Unidade)
