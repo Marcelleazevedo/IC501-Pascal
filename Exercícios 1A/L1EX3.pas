@@ -1,4 +1,4 @@
-Program L1EX3;
+Program L1AEX3;
 
 	// Descrição do exercício:
 		//Efetue o cálculo de litros de combustível gastos em uma viagem
