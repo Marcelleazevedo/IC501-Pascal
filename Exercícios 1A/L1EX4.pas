@@ -1,4 +1,4 @@
-Program L1EX4;
+Program L1AEX4;
 
 	// Descrição do exercício:
 		//Leia dois valores para as variáveis A e B
