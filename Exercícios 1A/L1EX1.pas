@@ -1,4 +1,4 @@
-Program L1EX1;
+Program L1AEX1;
 
 	// Descrição do exercício:
 		// Entre com a base e a altura de um retângulo
