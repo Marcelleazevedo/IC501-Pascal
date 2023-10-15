@@ -1,4 +1,4 @@
-Program L1EX7;
+Program L1AEX7;
 
 	// Descrição do exercício:
 		//Um taxista deseja calcular o rendimento de seu carro na praça.
